@@ -13,10 +13,10 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Zonghao Guo
-  tagline: PhD Candidate
+  name: Bohao Li
+  tagline: Postgraduate Candidate
   school: University of Chinese Academy of Sciences 
-  mail: guozonghao19@mails.ucas.ac.cn
+  mail: libohao20@mails.ucas.ac.cn
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -25,7 +25,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: thelehhman
-    github:  SDL-GuoZonghao
+    github:  Bohao-Lee
     # linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
