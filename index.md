@@ -12,7 +12,7 @@ My research interests are computer vision and representation learning. Recently,
 <table border="1">
 <tr>
 <td><img src="/CME.png"  height="150" width="415"></td>
-<td>Bohao Li, Boyu Yang, Chang Liu, Feng Liu, Rongrong Ji and Qixiang Ye,   
+<td><b>Bohao Li<b>, Boyu Yang, Chang Liu, Feng Liu, Rongrong Ji and Qixiang Ye,   
 <b>"Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection"</b>, 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Beyond_Max-Margin_Class_Margin_Equilibrium_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf">[PDF]</a> <a href="https://github.com/Bohao-Lee/CME">[CODE]</a>
 </td>
 </tr>
