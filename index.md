@@ -21,6 +21,9 @@ My research interests are computer vision and representation learning. Recently,
 
 ## Awards
 Second Prize of FPGA Innovative Design Invitational Contest in 2018
-Excellent students of Wuhan University 2016, 2018
+
+Excellent student of Wuhan University 2016, 2018
+
+Excellent graduate of Wuhan University 2020
 
 
