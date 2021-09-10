@@ -32,7 +32,9 @@ IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021 <a href=
 
 
 ## Awards
-Second Prize of FPGA Innovative Design Invitational Contest in 2018
+National Second Prize of FPGA Innovative Design Invitational Contest in 2018
+
+Provincial First Prize of National Undergraduate Electronics Design Contest
 
 Excellent student of Wuhan University 2016, 2018
 
