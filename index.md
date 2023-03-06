@@ -13,11 +13,17 @@ My research interests are computer vision and representation learning. Recently,
   
 <tr>
 <td><img src="/SPE.png"  height="150" width="415"></td>
-<td><b>Bohao Li</b>, Mingxiang Liao, Fang Wan, Yuan Yao, Zhenjun Han, Jialing Zou, Yuze Wang, Bailan Feng,  Peng Yuan and Qixiang Ye,   
-<b>"End-to-End Weakly Supervised Object Detection with Sparse Proposal Evolution"</b>, 2021 European Conference on Computer Vision (ECCV). <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690207.pdf">[PDF]</a> <a href="git@github.com:MingXiangL/SPE.git">[CODE]</a>
+<td><b>Mingxiang Liao</b>, Fang Wan, Yuan Yao, Zhenjun Han, Jialing Zou, Yuze Wang, Bailan Feng,  Peng Yuan and Qixiang Ye,   
+<b>"End-to-End Weakly Supervised Object Detection with Sparse Proposal Evolution"</b>, 2021 European Conference on Computer Vision (ECCV). <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690207.pdf">[PDF]</a> <a href="git@github.com:MingXiangL/SPE">[CODE]</a>
 </td>
 </tr>
   
+<tr>
+<td><img src="/AttnShift.png"  height="150" width="415"></td>
+<td><b>Mingxiang Liao</b>, Zonghao Guo, Yuze Wang, Bailan Feng, Peng Yuan and Fang Wan,   
+<b>"AttentionShift: Iteratively Estimated Part-based Attention Map for Pointly Supervised Instance Segmentation"</b>, 2021 European Conference on Computer Vision (ECCV). <a href="">[PDF]</a> <a href="">[CODE]</a>
+</td>
+</tr>
 
   
 
