@@ -21,7 +21,7 @@ My research interests are computer vision and representation learning. Recently,
 <tr>
 <td><img src="/AttnShift.png"  height="150" width="415"></td>
 <td><b>Mingxiang Liao</b>, Zonghao Guo, Yuze Wang, Bailan Feng, Peng Yuan and Fang Wan,   
-<b>"AttentionShift: Iteratively Estimated Part-based Attention Map for Pointly Supervised Instance Segmentation"</b>, 2021 European Conference on Computer Vision (ECCV). <a href="">[PDF]</a> <a href="">[CODE]</a>
+<b>"AttentionShift: Iteratively Estimated Part-based Attention Map for Pointly Supervised Instance Segmentation"</b>, 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). <a href="">[PDF]</a> <a href="">[CODE]</a>
 </td>
 </tr>
 
@@ -31,12 +31,10 @@ My research interests are computer vision and representation learning. Recently,
 
 
 ## Awards
-National Second Prize of FPGA Innovative Design Invitational Contest in 2018
 
-Provincial First Prize of National Undergraduate Electronics Design Contest
+Honorable Mention of Mathematical Contest in Modeling， 2018
 
-Excellent student of Wuhan University 2016, 2018
+Excellent student of Harbin Institute of Technology 2016, 2017, 2018
 
-Excellent graduate of Wuhan University 2020
-
+Excellent graduate of Harbin Institute of Technology 2020
 
