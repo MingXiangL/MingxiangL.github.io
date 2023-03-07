@@ -3,7 +3,7 @@
 
 ## Biography
 ---
-I am a PhD student of [PRISDL](https://ucassdl.cn/) in the School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), advised by Prof. [Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). I got a B.E. degree in Electronic Information School at  Harbin Institute of Technology, Shenzhen in June 2020. 
+I am a PhD student of [PRISDL](https://lamp.ucas.ac.cn/) in the School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), advised by Prof. [Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). I got a B.E. degree in Electronic Information School at  Harbin Institute of Technology, Shenzhen in June 2020. 
 
 My research interests are computer vision and representation learning. Recently, I am commited to weakly supervised learning, object detection and instance segmentation.
 
