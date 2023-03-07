@@ -10,7 +10,14 @@ My research interests are computer vision and representation learning. Recently,
 ## Publications
 ---
 <table border="1">
-  
+ 
+ <tr>
+<td><img src="/AttnShift.png"  height="150" width="415"></td>
+<td><b>Mingxiang Liao</b>, Zonghao Guo, Yuze Wang, Bailan Feng, Peng Yuan and Fang Wan,   
+<b>"AttentionShift: Iteratively Estimated Part-based Attention Map for Pointly Supervised Instance Segmentation"</b>, 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). <a>[PDF]</a> <a>[CODE]</a>
+</td>
+</tr>
+
 <tr>
 <td><img src="/SPE.png"  height="150" width="415"></td>
 <td><b>Mingxiang Liao</b>, Fang Wan, Yuan Yao, Zhenjun Han, Jialing Zou, Yuze Wang, Bailan Feng,  Peng Yuan and Qixiang Ye,   
@@ -18,12 +25,6 @@ My research interests are computer vision and representation learning. Recently,
 </td>
 </tr>
   
-<tr>
-<td><img src="/AttnShift.png"  height="150" width="415"></td>
-<td><b>Mingxiang Liao</b>, Zonghao Guo, Yuze Wang, Bailan Feng, Peng Yuan and Fang Wan,   
-<b>"AttentionShift: Iteratively Estimated Part-based Attention Map for Pointly Supervised Instance Segmentation"</b>, 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). <a>[PDF]</a> <a>[CODE]</a>
-</td>
-</tr>
 
   
 
