@@ -10,17 +10,18 @@ My research interests are computer vision and representation learning. Recently,
 ## Publications
 ---
 <table border="1">
-  <tr>
+  
+<tr>
 <td><img src="/DEVIL.png"  height="150" width="415"></td>
-<u>Mingxiang Liao</u>*, Hannan Lu*, Xinyu Zhang*, Fang Wan, Tianyu Wang, Yuzhong Zhao, Wangmeng Zuo, Qixiang Ye, Jingdong Wang
-<b>"Evaluation of Text-to-Video Generation Models: A Dynamics Perspective"</b>,  <a href="https://arxiv.org/abs/2407.01094">[PDF]</a> <a href="https://github.com/MingXiangL/AttentionShift">[CODE]</a>
+<u>Mingxiang Liao</u>*, Hannan Lu*, Xinyu Zhang*, Fang Wan, Tianyu Wang, Yuzhong Zhao, Wangmeng Zuo, Qixiang Ye, Jingdong Wang,
+<b>"Evaluation of Text-to-Video Generation Models: A Dynamics Perspective"</b>,  <a href="https://arxiv.org/abs/2407.01094">[PDF]</a> <a https://github.com/MingXiangL/DEVIL>[CODE]</a>
 </td>
 </tr>
 
  <tr>
 <td><img src="/AttnShift.png"  height="150" width="415"></td>
 <td><b>Mingxiang Liao</b>, Zonghao Guo, Yuze Wang, Bailan Feng, Peng Yuan and Fang Wan,   
-<b>"AttentionShift: Iteratively Estimated Part-based Attention Map for Pointly Supervised Instance Segmentation"</b>, 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). <a>[PDF]</a> <a>[CODE]</a>
+<b>"AttentionShift: Iteratively Estimated Part-based Attention Map for Pointly Supervised Instance Segmentation"</b>, 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_AttentionShift_Iteratively_Estimated_Part-Based_Attention_Map_for_Pointly_Supervised_Instance_CVPR_2023_paper.pdf">[PDF]</a> <a href="https://github.com/MingXiangL/AttentionShift">[CODE]</a>
 </td>
 </tr>
 
