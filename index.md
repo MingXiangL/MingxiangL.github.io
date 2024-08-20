@@ -10,7 +10,13 @@ My research interests are computer vision and representation learning. Recently,
 ## Publications
 ---
 <table border="1">
- 
+  <tr>
+<td><img src="/DEVIL.png"  height="150" width="415"></td>
+<u>Mingxiang Liao</u>*, Hannan Lu*, Xinyu Zhang*, Fang Wan, Tianyu Wang, Yuzhong Zhao, Wangmeng Zuo, Qixiang Ye, Jingdong Wang
+<b>"Evaluation of Text-to-Video Generation Models: A Dynamics Perspective"</b>,  <a href="https://arxiv.org/abs/2407.01094">[PDF]</a> <a href="https://github.com/MingXiangL/AttentionShift">[CODE]</a>
+</td>
+</tr>
+
  <tr>
 <td><img src="/AttnShift.png"  height="150" width="415"></td>
 <td><b>Mingxiang Liao</b>, Zonghao Guo, Yuze Wang, Bailan Feng, Peng Yuan and Fang Wan,   
